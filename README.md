@@ -1,6 +1,6 @@
 # Image Encryption Research Project
 
-# Image Encryption and Decryption using Chaos Maps and Histogram Analysis
+# Image Encryption and Decryption using Chaos Maps and Histogram Analysis 
 
 ## Overview
 This repository contains the work of my research project on Image Encryption. The goal of this project is to explore and implement various image encryption techniques for enhancing the security of digital images.
