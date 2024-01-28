@@ -123,4 +123,5 @@ Contributions, issues, and feature requests are welcome. Feel free to check issu
 
 ## Author
 - Shreya Parkar
+- Samkit Shah
 
